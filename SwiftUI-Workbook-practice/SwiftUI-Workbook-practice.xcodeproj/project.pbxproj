@@ -10,9 +10,22 @@
 		2D1592522E16AA90005846B2 /* SwiftUI-Workbook-practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Workbook-practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2D1592792E16B221005846B2 /* Exceptions for "SwiftUI-Workbook-practice" folder in "SwiftUI-Workbook-practice" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 2D1592512E16AA90005846B2 /* SwiftUI-Workbook-practice */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		2D1592542E16AA90005846B2 /* SwiftUI-Workbook-practice */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2D1592792E16B221005846B2 /* Exceptions for "SwiftUI-Workbook-practice" folder in "SwiftUI-Workbook-practice" target */,
+			);
 			path = "SwiftUI-Workbook-practice";
 			sourceTree = "<group>";
 		};
@@ -256,6 +269,7 @@
 				DEVELOPMENT_TEAM = 3BFLHJ2HKG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SwiftUI-Workbook-practice/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +298,7 @@
 				DEVELOPMENT_TEAM = 3BFLHJ2HKG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SwiftUI-Workbook-practice/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
