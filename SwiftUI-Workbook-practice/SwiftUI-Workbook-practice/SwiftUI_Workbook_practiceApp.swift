@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Workbook_practiceApp: App {
     var body: some Scene {
         WindowGroup {
-            TicketView()
+            ReceiptsView()
         }
     }
 }
